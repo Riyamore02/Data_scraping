@@ -1,0 +1,24 @@
+[
+    {
+        "source_url": "https://www.youtube.com/watch?v=aircAruvnKk",
+        "source_type": "youtube",
+        "author": "YouTube Channel",
+        "published_date": "Unknown",
+        "language": "unknown",
+        "region": "Global",
+        "topic_tags": [],
+        "trust_score": 0.555,
+        "content_chunks": []
+    },
+    {
+        "source_url": "https://www.youtube.com/watch?v=7eh4d6sabA0",
+        "source_type": "youtube",
+        "author": "YouTube Channel",
+        "published_date": "Unknown",
+        "language": "unknown",
+        "region": "Global",
+        "topic_tags": [],
+        "trust_score": 0.555,
+        "content_chunks": []
+    }
+]

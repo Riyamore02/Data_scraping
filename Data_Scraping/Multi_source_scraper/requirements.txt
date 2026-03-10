@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+newspaper3k
+youtube-transcript-api
+langdetect
+yake
+lxml
