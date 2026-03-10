@@ -261,6 +261,4 @@ Technologies Used
 Author 
 Riya More
 
-Author
 
-Riya More
